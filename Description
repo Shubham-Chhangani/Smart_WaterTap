@@ -1,26 +1,5 @@
 SMART WATER TAP
 
-
-
-•	OBJECTIVE- 
-To limit the use of water while taking bath
-
-•	 MATERIALS USED-
-	ARDUINO NANO
-	NUMERIC KEYPAD
-	SOLENOID VALVE
-	FLOW RATE SENSOR
-	MOSFET(FQP30N06L)	
-	FLYBACK DIODE & FUSE
-	BATTERY(5V&12V)	
-	WIRES
-
-
-
-
-
-
-
 •	DESCRIPTION-
 While using shower many times we unknowingly use too much water so in this project user first need to input the amount of water and after he/she has used the feeded amount of water the valve automatically gets closed for 30 sec.This 30 sec gap tells the user about the usage.
 This system will prevent the water wastage which is resulted due to thoughtless use of shower.
@@ -29,14 +8,3 @@ This system will prevent the water wastage which is resulted due to thoughtless 
 	There is a switch fitted with shower tap as you turn on shower the switch also turns on.  
 	We need to input the amount of water using the keypad and press ‘#’ to confirm. 
 	Press ‘*’ to clear any previously given amount of water.
-
-
-•	FLOWCHART -
-        
-
-
-
-
-•	FEASIBILITY-
-Project costs less than ₹1000 and will surely work for more than 5 years.So manufacturing of this project is highly feasible.
-
